@@ -2,7 +2,7 @@
 
 * 🔭 Atualmente atuando com Back-end.
 * 👨‍🎓 Estudando Python e C#.
-* 😲 Entusiasta de IA e VR 🤖.
+* 😲 Interessado em IA e VR 🤖.
 <div align="center">
   <a href="https://github.com/JosueLft">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueLft&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
