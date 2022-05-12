@@ -1,7 +1,7 @@
 ## Oi eu sou o Josué Felipe!
 
 * 🔭 Atualmente atuando com Back-end.
-* 👨‍🎓 Estudando Python e C#.
+* 👨‍🎓 Estudando Java e C#.
 * 😲 Interessado em IA e VR 🤖.
 <div align="center">
   <a href="https://github.com/JosueLft">
