@@ -1,7 +1,7 @@
 ## Oi eu sou o Josué!
 
 * 👨‍🎓 Estudando Agentic AI e Unity.
-* 😲 Interessado em IA e VR 🤖.
+* 😲 Entusiasta de IA e VR 🤖.
 
 <div align="center">
   <a href="https://github.com/JosueLft">
